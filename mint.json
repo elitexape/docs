@@ -13,49 +13,63 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:support@kairosterminal.com"
+      "url": "mailto:gm@kairosterminal.com"
     }
   ],
   "topbarCtaButton": {
     "name": "Join Waitlist",
-    "url": "https://kairosterminal.com/waitlist"
+    "url": "https://app.kairosterminal.com/"
   },
   "anchors": [
     {
-      "name": "Community",
-      "icon": "discord",
-      "url": "https://discord.gg/kairosterminal"
+      "name": "Twitter/X",
+      "icon": "twitter",
+      "url": "https://x.com/kairosterminal"
     },
     {
-      "name": "GitHub",
-      "icon": "github",
-      "url": "https://github.com/kairosterminal"
+      "name": "Community",
+      "icon": "telegram",
+      "url": "https://t.me/kairosterminal"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Overview",
       "pages": ["introduction", "getstarted"]
     },
     {
-      "group": "Core Technology",
-      "pages": ["ALINA"]
+      "group": "Platform Features",
+      "pages": [
+        "emerging-trends",
+        "sentiment-pulse",
+        "social-onchain-profiles",
+        "cross-chain-trading",
+        "gasless-trading"
+      ]
     },
     {
-      "group": "Platform Features",
-      "pages": ["MainFeatures", "advancedtools"]
+      "group": "Advanced Tools",
+      "pages": [
+        "on-chain-alpha-tracker",
+        "catalyst-calendar",
+        "smart-following"
+      ]
+    },
+    {
+      "group": "Core Technology",
+      "pages": ["alina"]
     },
     {
       "group": "For Developers",
-      "pages": ["API & Developers"]
+      "pages": ["api-documentation", "b2b-solutions"]
     },
     {
       "group": "Token Economics",
-      "pages": ["$KAIROS Token"]
+      "pages": ["kairos-token"]
     },
     {
-      "group": "Additional Resources",
-      "pages": ["development"]
+      "group": "Resources",
+      "pages": ["faq", "glossary", "community-guidelines"]
     }
   ],
   "footerSocials": {
