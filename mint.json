@@ -18,29 +18,49 @@
   ],
   "topbarCtaButton": {
     "name": "Join Waitlist",
-    "url": "https://app.kairosterminal.com/"
+    "url": "https://kairosterminal.com/waitlist"
   },
   "anchors": [
     {
-      "name": "Twitter",
-      "icon": "twitter",
-      "url": "https://x.com/kairosterminal"
+      "name": "Community",
+      "icon": "discord",
+      "url": "https://discord.gg/kairosterminal"
     },
     {
-      "name": "Telegram",
-      "icon": "Telegram",
-      "url": "https://t.me/kairosterminal"
+      "name": "GitHub",
+      "icon": "github",
+      "url": "https://github.com/kairosterminal"
     }
   ],
   "navigation": [
     {
-      "group": "Getting Started",
-      "pages": ["introduction", "getting-started"]
+      "group": "Get Started",
+      "pages": ["introduction", "getstarted"]
     },
     {
-      "group": "ALINA: The AI Core",
-      "pages": ["alina"]
+      "group": "Core Technology",
+      "pages": ["ALINA"]
     },
     {
-      "group": "Main Features",
-      "pages": [
+      "group": "Platform Features",
+      "pages": ["MainFeatures", "advancedtools"]
+    },
+    {
+      "group": "For Developers",
+      "pages": ["API & Developers"]
+    },
+    {
+      "group": "Token Economics",
+      "pages": ["$KAIROS Token"]
+    },
+    {
+      "group": "Additional Resources",
+      "pages": ["development"]
+    }
+  ],
+  "footerSocials": {
+    "twitter": "https://twitter.com/kairosterminal",
+    "github": "https://github.com/kairosterminal",
+    "linkedin": "https://www.linkedin.com/company/kairosterminal"
+  }
+}
