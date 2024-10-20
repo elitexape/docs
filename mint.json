@@ -18,82 +18,29 @@
   ],
   "topbarCtaButton": {
     "name": "Join Waitlist",
-    "url": "https://kairosterminal.com/waitlist"
+    "url": "https://app.kairosterminal.com/"
   },
   "anchors": [
     {
-      "name": "Community",
-      "icon": "discord",
-      "url": "https://discord.gg/kairosterminal"
+      "name": "Twitter",
+      "icon": "twitter",
+      "url": "https://x.com/kairosterminal"
     },
     {
-      "name": "GitHub",
-      "icon": "github",
-      "url": "https://github.com/kairosterminal"
+      "name": "Telegram",
+      "icon": "Telegram",
+      "url": "https://t.me/kairosterminal"
     }
   ],
   "navigation": [
     {
-      "group": "Introduction",
-      "pages": [
-        "introduction/what-is-kairos-terminal",
-        "introduction/core-philosophy",
-        "introduction/key-features"
-      ]
+      "group": "Getting Started",
+      "pages": ["introduction", "getting-started"]
     },
-    "getting-started",
     {
       "group": "ALINA: The AI Core",
-      "pages": [
-        "alina/understanding-alina",
-        "alina/nexus-data-processing",
-        "alina/oracle-predictive-analytics"
-      ]
+      "pages": ["alina"]
     },
     {
       "group": "Main Features",
       "pages": [
-        "features/emerging-trends",
-        "features/sentiment-pulse",
-        "features/social-onchain-alpha",
-        "features/cross-chain-trading",
-        "features/gasless-trading"
-      ]
-    },
-    {
-      "group": "Advanced Tools",
-      "pages": [
-        "advanced-tools/on-chain-alpha-tracker",
-        "advanced-tools/catalyst-calendar",
-        "advanced-tools/smart-following"
-      ]
-    },
-    {
-      "group": "KAIROS Token",
-      "pages": [
-        "kairos-token/token-utility",
-        "kairos-token/staking-and-governance"
-      ]
-    },
-    {
-      "group": "For Developers",
-      "pages": [
-        "developers/api-documentation",
-        "developers/integration-guide"
-      ]
-    },
-    {
-      "group": "Community & Support",
-      "pages": [
-        "community-and-support/faqs",
-        "community-and-support/contact-support",
-        "community-and-support/community-guidelines"
-      ]
-    }
-  ],
-  "footerSocials": {
-    "twitter": "https://twitter.com/kairosterminal",
-    "github": "https://github.com/kairosterminal",
-    "linkedin": "https://www.linkedin.com/company/kairosterminal"
-  }
-}
