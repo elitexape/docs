@@ -62,7 +62,9 @@
     },
     {
       "group": "Core Technology",
-      "pages": ["alina"]
+      "pages": ["ALINA, 
+                "what-is-alina", 
+                "alina-powers-kairos"]
     },
     {
       "group": "Enterprise & Developer API",
