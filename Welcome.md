@@ -33,7 +33,7 @@ Leveraging real-time social chatter and on-chain data to identify trends before 
 Ready to revolutionize your crypto trading experience?
 
 <Button
-  href="https://kairosterminal.com/waitlist"
+  href="https://kairosterminal.ai/waitlist"
   variant="primary"
 >
   Join Our Waitlist

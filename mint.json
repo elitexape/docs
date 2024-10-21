@@ -13,12 +13,12 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:gm@kairosterminal.com"
+      "url": "mailto:gm@kairosterminal.ai"
     }
   ],
   "topbarCtaButton": {
     "name": "Join Waitlist",
-    "url": "https://app.kairosterminal.com/"
+    "url": "https://app.kairosterminal.ai/"
   },
   "anchors": [
     {
