@@ -60,12 +60,12 @@
       "pages": ["alina"]
     },
     {
-      "group": "For Developers",
-      "pages": ["api-documentation", "b2b-solutions"]
+      "group": "Enterprise & Developer API",
+      "pages": ["API Access"]
     },
     {
-      "group": "Token Economics",
-      "pages": ["kairos-token"]
+      "group": "Tokenomics",
+      "pages": ["$kairos-token"]
     },
     {
       "group": "Resources",
