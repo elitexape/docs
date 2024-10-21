@@ -35,8 +35,13 @@
   "navigation": [
     {
       "group": "Overview",
-      "pages": ["introduction", "getstarted"]
+      "pages": ["Welcome", "Our Philosophy"]
     },
+    {
+      "group": "Onboarding",
+      "pages": ["waitlist"]
+    },
+
     {
       "group": "Platform Features",
       "pages": [
