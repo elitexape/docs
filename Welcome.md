@@ -1,5 +1,5 @@
 ---
-title: "Kairos Terminal"
+title: "Welcome To Kairos Terminal"
 description: "The Intelligence Layer Between Onchain & Offchain "
 ---
 
