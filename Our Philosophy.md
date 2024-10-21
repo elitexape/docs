@@ -1,14 +1,8 @@
----
-title: "Core Philosophy"
-description: "Understanding the guiding principle behind Kairos Terminal"
----
-
-# Our Core Philosophy: Where Attention Goes, Money Flows
 
 At Kairos Terminal, we operate on a simple yet powerful principle:
 
 <Note>
-  **Where attention goes, money flows.**
+  **Where Attention Goes, Money Flows.**
 </Note>
 
 This philosophy drives our approach to market analysis and prediction. We believe that by tracking shifts in attention across the crypto space and correlating them with money flow, we can predict market movements with unprecedented accuracy.
