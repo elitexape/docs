@@ -22,61 +22,89 @@
   },
   "anchors": [
     {
-      "name": "Twitter/X",
-      "icon": "twitter",
-      "url": "https://x.com/kairosterminal"
-    },
-    {
       "name": "Community",
       "icon": "telegram",
       "url": "https://t.me/kairosterminal"
+    },
+    {
+      "name": "GitHub",
+      "icon": "github",
+      "url": "https://github.com/kairosterminal"
     }
   ],
   "navigation": [
     {
-      "group": "Overview",
-      "pages": ["Welcome", "Our Philosophy"]
+      "group": "Introduction",
+      "pages": [
+        "welcome",
+        "core-philosophy",
+        "key-features"
+      ]
     },
     {
-      "group": "Onboarding",
+      "group": "Getting Started",
       "pages": ["waitlist"]
     },
-
+    {
+      "group": "ALINA: Our AI Core",
+      "pages": [
+        "what-is-alina",
+        "alina-architecture",
+        "alina-powers-kairos"
+      ]
+    },
     {
       "group": "Platform Features",
       "pages": [
-        "emerging-trends",
-        "sentiment-pulse",
-        "social-onchain-profiles",
-        "cross-chain-trading",
-        "gasless-trading"
+        "ai-powered-market-insights",
+        {
+          "group": "Trading Intelligence",
+          "pages": [
+            "trading-intelligence/emerging-trends",
+            "trading-intelligence/sentiment-pulse",
+            "trading-intelligence/social-onchain-alpha"
+          ]
+        },
+        {
+          "group": "Coming Soon",
+          "pages": [
+            "coming-soon/cross-chain-trading",
+            "coming-soon/gasless-trading"
+          ]
+        }
       ]
     },
     {
-      "group": "Advanced Tools",
+      "group": "Advanced Capabilities",
       "pages": [
-        "on-chain-alpha-tracker",
-        "catalyst-calendar",
-        "smart-following"
+        "advanced/cross-chain-analytics",
+        "advanced/market-catalyst-tracking",
+        "advanced/smart-following-system"
       ]
     },
     {
-      "group": "Core Technology",
-      "pages": ["ALINA", 
-                "what-is-alina", 
-                "alina-powers-kairos"]
+      "group": "For Developers",
+      "pages": [
+        "developers/api-documentation",
+        "developers/b2b-solutions",
+        "developers/integration-guide"
+      ]
     },
     {
-      "group": "Enterprise & Developer API",
-      "pages": ["API Access"]
-    },
-    {
-      "group": "Tokenomics",
-      "pages": ["$kairos-token"]
+      "group": "KAIROS Token",
+      "pages": [
+        "token/overview",
+        "token/utility-governance",
+        "token/tokenomics"
+      ]
     },
     {
       "group": "Resources",
-      "pages": ["faq", "glossary", "community-guidelines"]
+      "pages": [
+        "resources/faq",
+        "resources/glossary",
+        "resources/community-guidelines"
+      ]
     }
   ],
   "footerSocials": {
