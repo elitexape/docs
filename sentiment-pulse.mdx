@@ -1,50 +1,81 @@
 ---
 title: "Sentiment Pulse"
-description: "Real-time sentiment analysis for informed trading decisions"
+description: "Real-time Market Sentiment Analysis"
 ---
-Comprises of two sub modules Market Mode & Degen Mode. Both show data pertaining to their asset classes.
-<Card title="AI-Driven Sentiment Analysis" icon="brain">
-  ALINA processes millions of data points to deliver accurate, real-time sentiment analysis across the crypto market.
+
+# Sentiment Pulse
+
+<Card title="Market Sentiment Monitor" icon="heart-pulse">
+  Get a comprehensive view of market sentiment through AI-powered analysis of multiple data sources.
 </Card>
 
-## Features
+## Sentiment Metrics
 
-<CardGroup cols={2}>
-  <Card title="Global Sentiment Index" icon="globe">
-    Overall market sentiment score updated in real-time.
+<CardGroup cols={3}>
+  <Card title="FOMO Index" icon="gauge">
+    Real-time measurement of market excitement levels
   </Card>
-  <Card title="Token-Specific Sentiment" icon="coins">
-    Individual sentiment scores for thousands of crypto tokens.
+  <Card title="Fear & Greed" icon="scale-balanced">
+    Balanced analysis of market emotions
   </Card>
-  <Card title="Sentiment Trends" icon="chart-line">
-    Track how sentiment changes over time for specific assets or the overall market.
-  </Card>
-  <Card title="Sentiment Alerts" icon="bell">
-    Get notified of sudden sentiment shifts that could indicate market movements.
+  <Card title="Momentum Score" icon="arrow-trend-up">
+    Trend strength and sustainability metrics
   </Card>
 </CardGroup>
 
-
-## Sample Sentiment Dashboard
-
-<Frame>
-  <img src="/images/sentiment-dashboard.png" alt="Sentiment Dashboard" />
-</Frame>
-
-## Interpreting Sentiment Data
+## Data Sources
 
 <AccordionGroup>
-  <Accordion title="Bullish Sentiment (0.6 to 1.0)">
-    Indicates a strongly positive market outlook. Often correlates with price increases.
+  <Accordion title="Social Media">
+    - Twitter sentiment analysis
+    - Telegram chat monitoring
+    - Discord activity tracking
+    - Reddit sentiment scoring
   </Accordion>
-  <Accordion title="Neutral Sentiment (-0.2 to 0.2)">
-    Suggests market uncertainty or balance between positive and negative sentiments.
+  <Accordion title="News & Media">
+    - Crypto news coverage
+    - Influencer content analysis
+    - Project announcements
+    - Media sentiment scoring
   </Accordion>
-  <Accordion title="Bearish Sentiment (-1.0 to -0.6)">
-    Indicates a strongly negative market outlook. Often correlates with price decreases.
+  <Accordion title="Market Data">
+    - Trading volume analysis
+    - Price action correlation
+    - Order book sentiment
+    - Derivatives market mood
   </Accordion>
 </AccordionGroup>
 
-<Warning>
-  While sentiment analysis is a powerful tool, it should be used in conjunction with other analytical methods for the most informed trading decisions.
-</Warning>
+## Sentiment Dashboard
+
+<Frame>
+  <img src="/images/sentiment-dashboard.svg" alt="Sentiment Analysis Dashboard" />
+</Frame>
+
+## Sample Sentiment Data
+
+<CodeBlock language="json">
+{`
+{
+  "market_sentiment": {
+    "overall_score": 72,
+    "trend": "Bullish",
+    "components": {
+      "social_sentiment": 8.5,
+      "news_sentiment": 7.2,
+      "market_sentiment": 6.8
+    },
+    "key_drivers": [
+      "Product Launch",
+      "Partnership News",
+      "Community Growth"
+    ],
+    "confidence": "High"
+  }
+}
+`}
+</CodeBlock>
+
+<Note>
+  Public demo provides access to core sentiment analysis features. Advanced sentiment metrics and custom alerts available in private access.
+</Note>
