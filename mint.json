@@ -48,11 +48,10 @@
     {
       "group": "ALINA: Our AI Core",
       "pages": [
-        "what-is-alina",
-        "alina-architecture",
-        "alina-powers-kairos"
+        "alina", 
+        "alina-powers-kairos" 
       ]
-    },
+    }
     {
       "group": "Platform Features",
       "pages": [
