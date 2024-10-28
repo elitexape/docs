@@ -26,11 +26,6 @@
       "icon": "telegram",
       "url": "https://t.me/kairosterminal"
     },
-    {
-      "name": "GitHub",
-      "icon": "github",
-      "url": "https://github.com/kairosterminal"
-    }
   ],
   "navigation": [
     {
@@ -55,32 +50,34 @@
     {
       "group": "Platform Features",
       "pages": [
-        "ai-powered-market-insights",
+        "platform-features",
         {
-          "group": "Trading Intelligence",
+          "group": "Public Demo",
           "pages": [
-            "trading-intelligence/emerging-trends",
-            "trading-intelligence/sentiment-pulse",
-            "trading-intelligence/social-onchain-alpha"
+            "platform-features/public-features/emerging-trends",
+            "platform-features/public-features/sentiment-pulse",
+            "platform-features/public-features/social-onchain-alpha",
+            "platform-features/public-features/basic-analytics"
+          ]
+        },
+        {
+          "group": "Private Invite Only",
+          "pages": [
+            "platform-features/private-features/advanced-market-intelligence",
+            "platform-features/private-features/cross-chain-analytics",
+            "platform-features/private-features/risk-management",
+            "platform-features/private-features/alpha-generation"
           ]
         },
         {
           "group": "Coming Soon",
           "pages": [
-            "coming-soon/cross-chain-trading",
-            "coming-soon/gasless-trading"
+            "platform-features/upcoming/cross-chain-trading",
+            "platform-features/upcoming/gasless-trading"
           ]
         }
       ]
-    },
-    {
-      "group": "Advanced Capabilities",
-      "pages": [
-        "advanced/cross-chain-analytics",
-        "advanced/market-catalyst-tracking",
-        "advanced/smart-following-system"
-      ]
-    },
+    }
     {
       "group": "For Developers",
       "pages": [
@@ -108,7 +105,5 @@
   ],
   "footerSocials": {
     "twitter": "https://twitter.com/kairosterminal",
-    "github": "https://github.com/kairosterminal",
-    "linkedin": "https://www.linkedin.com/company/kairosterminal"
   }
 }
