@@ -25,7 +25,7 @@
       "name": "Community",
       "icon": "telegram",
       "url": "https://t.me/kairosterminal"
-    },
+    }
   ],
   "navigation": [
     {
@@ -46,7 +46,7 @@
         "alina", 
         "alina-powers-kairos" 
       ]
-    }
+    },
     {
       "group": "Platform Features",
       "pages": [
@@ -77,7 +77,7 @@
           ]
         }
       ]
-    }
+    },
     {
       "group": "For Developers",
       "pages": [
@@ -104,6 +104,6 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/kairosterminal",
+    "twitter": "https://twitter.com/kairosterminal"
   }
 }
