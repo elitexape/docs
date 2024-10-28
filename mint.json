@@ -38,13 +38,14 @@
     },
     {
       "group": "Getting Started",
-      "pages": ["waitlist"]
+      "pages": ["getstarted"]
     },
     {
       "group": "ALINA: Our AI Core",
       "pages": [
-        "alina", 
-        "alina-powers-kairos" 
+        "ALINA", 
+        "what-is-alina",
+        "ai-market"
       ]
     },
     {
@@ -54,17 +55,17 @@
         {
           "group": "Public Demo",
           "pages": [
-            "platform-features/public-features/emerging-trends",
-            "platform-features/public-features/sentiment-pulse",
-            "platform-features/public-features/social-onchain-alpha",
-            "platform-features/public-features/basic-analytics"
+            "emergingtrends",
+            "sentiment-pulse",
+            "social-onchain-alpha",
+            "basic-analytics"
           ]
         },
         {
           "group": "Private Invite Only",
           "pages": [
-            "platform-features/private-features/advanced-market-intelligence",
-            "platform-features/private-features/cross-chain-analytics",
+            "advanced-market-intelligence",
+            "cross-chain-analytics",
             "platform-features/private-features/risk-management",
             "platform-features/private-features/alpha-generation"
           ]
@@ -81,15 +82,14 @@
     {
       "group": "For Developers",
       "pages": [
-        "developers/api-documentation",
-        "developers/b2b-solutions",
-        "developers/integration-guide"
+        "API & Developers",
+        "advancedtools"
       ]
     },
     {
       "group": "KAIROS Token",
       "pages": [
-        "token/overview",
+        "SKAIROS Token",
         "token/utility-governance",
         "token/tokenomics"
       ]
