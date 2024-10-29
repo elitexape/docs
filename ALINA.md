@@ -10,13 +10,6 @@ ALINA (Algorithmic Learning and Integrated Network Analytics) is the advanced AI
 <Card title="ALINA's Core Function" icon="brain">
   ALINA transforms raw data from multiple sources into valuable trading intelligence, giving Kairos Terminal users a significant edge in the market.
 </Card>
-
-## ALINA's Architecture
-
-ALINA's power comes from its multi-layered architecture:
-
-<img src="/images/alina-architecture.svg" alt="ALINA Architecture Diagram" />
-
 ### Data Sources
 
 ALINA ingests and processes data from various sources:
