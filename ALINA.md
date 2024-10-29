@@ -1,5 +1,5 @@
 ---
-title: "ALINA: The AI Core of Kairos Terminal"
+title: "What is ALINA?"
 description: "Explore the advanced AI system powering Kairos Terminal's market intelligence"
 ---
 
