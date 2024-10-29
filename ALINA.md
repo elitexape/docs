@@ -1,11 +1,9 @@
 ---
 title: "What is ALINA?"
-description: "Explore the advanced AI system powering Kairos Terminal's market intelligence"
+description: "Algorithmic Learning and Integrated Network Analytics"
 ---
 
-## What is ALINA?
-
-ALINA (Algorithmic Learning and Integrated Network Analytics) is the advanced AI system at the heart of Kairos Terminal. It processes vast amounts of data to provide actionable insights and predictions for crypto traders.
+ALINA is the advanced AI system at the heart of Kairos Terminal. It processes vast amounts of data to provide actionable insights and predictions for crypto traders.
 
 <Card title="ALINA's Core Function" icon="brain">
   ALINA transforms raw data from multiple sources into valuable trading intelligence, giving Kairos Terminal users a significant edge in the market.
