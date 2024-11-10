@@ -7,11 +7,11 @@ description: "Join the waitlist and prepare for your Kairos Terminal journey"
 
 Kairos Terminal is currently in a closed beta phase. To be among the first to experience our revolutionary trading platform:
 
-1. Visit our [waitlist page](https://app.kairosterminal.com/)
-2. Enter your email address
+1. Visit our [Onboarding Page](https://app.kairosterminal.ai/)
+2. Follow the instructions
 3. Click "Join Waitlist"
 
-<Card title="Join Waitlist" icon="rocket" href="https://app.kairosterminal.com/">
+<Card title="Join Waitlist" icon="rocket" href="https://app.kairosterminal.ai/">
   Be the first to know when Kairos Terminal launches!
 </Card>
 
