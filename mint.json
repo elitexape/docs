@@ -95,12 +95,8 @@
       ]
     },
     {
-      "group": "Pricing & Credits",
-      "pages": [
-        "pricing",
-        "ai-credits",
-        "enterprise"
-      ]
+      "group": "Pricing",
+      "pages": ["pricing"]
     },
     {
       "group": "Resources",
