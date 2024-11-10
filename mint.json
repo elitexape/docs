@@ -95,6 +95,22 @@
       ]
     },
     {
+      "group": "KAIROS Token",
+      "pages": [
+        "SKAIROS Token",
+        "token/utility-governance",
+        "token/tokenomics"
+      ]
+    },
+    {
+      "group": "Pricing & Credits",
+      "pages": [
+        "pricing",
+        "ai-credits",
+        "enterprise"
+      ]
+    },
+    {
       "group": "Resources",
       "pages": [
         "resources/faq",
@@ -102,6 +118,7 @@
         "resources/community-guidelines"
       ]
     }
+  ]
   ],
   "footerSocials": {
     "twitter": "https://twitter.com/kairosterminal"
