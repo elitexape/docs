@@ -95,14 +95,6 @@
       ]
     },
     {
-      "group": "KAIROS Token",
-      "pages": [
-        "SKAIROS Token",
-        "token/utility-governance",
-        "token/tokenomics"
-      ]
-    },
-    {
       "group": "Pricing & Credits",
       "pages": [
         "pricing",
