@@ -1,5 +1,5 @@
 {
-  "name": "Kairos Terminal",
+  "name": "ALINAintel.AI",
   "logo": {
     "light": "/logo/favicon.png",
     "dark": "/logo/favicon.png"
@@ -13,18 +13,18 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "https://x.com/kairosterminal"
+      "url": "https://x.com/ALINAintel"
     }
   ],
   "topbarCtaButton": {
     "name": "Join Waitlist",
-    "url": "https://app.kairosterminal.ai/"
+    "url": "https://app.ALINAintel.ai/"
   },
   "anchors": [
     {
       "name": "Community",
       "icon": "telegram",
-      "url": "https://t.me/kairosterminal"
+      "url": "https://t.me/ALINAintel"
     }
   ],
   "navigation": [
